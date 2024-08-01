@@ -12,12 +12,12 @@ const posts = [
   {
     id: 1,
     user: {
-      name: "John Doe",
+      name: "Hansana",
 
     },
     time: "2 hrs",
     content:
-      "This is a sample post content. It may include text, images, videos, etc.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ut libero ultrices ultricies. Nullam nec purus ut libero ultrices ultricies.",
   },
 ];
 
